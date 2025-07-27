@@ -1,0 +1,22 @@
+Year,Industry,Commodity,Country,Scope1_Emissions_tCO2e,Scope2_Emissions_tCO2e,Scope3_Emissions_tCO2e,Total_Emissions_tCO2e
+2010,Steel,Raw Steel,India,120,80,400,600
+2011,Steel,Raw Steel,India,125,82,420,627
+2012,Steel,Raw Steel,India,130,85,430,645
+2013,Steel,Raw Steel,India,128,83,415,626
+2014,Steel,Raw Steel,India,127,81,410,618
+2015,Steel,Raw Steel,India,126,80,405,611
+2016,Steel,Raw Steel,India,124,78,395,597
+2010,Agriculture,Wheat,USA,50,30,100,180
+2011,Agriculture,Wheat,USA,48,29,102,179
+2012,Agriculture,Wheat,USA,47,28,101,176
+2013,Agriculture,Wheat,USA,49,27,98,174
+2014,Agriculture,Wheat,USA,46,26,96,168
+2015,Agriculture,Wheat,USA,45,25,94,164
+2016,Agriculture,Wheat,USA,44,24,93,161
+2010,Electronics,Circuit Boards,Germany,80,90,210,380
+2011,Electronics,Circuit Boards,Germany,85,92,215,392
+2012,Electronics,Circuit Boards,Germany,87,95,220,402
+2013,Electronics,Circuit Boards,Germany,88,93,218,399
+2014,Electronics,Circuit Boards,Germany,86,91,216,393
+2015,Electronics,Circuit Boards,Germany,84,90,214,388
+2016,Electronics,Circuit Boards,Germany,82,88,212,382
